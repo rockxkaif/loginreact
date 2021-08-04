@@ -1,4 +1,4 @@
-import logo from './images/logo.png';
+import logo from './img/logo.png';
 import { makeStyles } from '@material-ui/core';
 import clsx from 'clsx';
 import './login.css';
